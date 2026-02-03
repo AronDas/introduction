@@ -1,0 +1,11 @@
+micheal = ("Micheals birthday is November 22nd")
+Jason = ("Jason's birthday is Feburary 14")
+Aron = ("Aron's birthday is June 25")
+Chloe = ("Chloe's birthdayApril 13")
+Max = ("Max's birthday is december 2")
+
+print (micheal)
+print (Jason)
+print (Aron)
+print (Chloe)
+print (Max)
